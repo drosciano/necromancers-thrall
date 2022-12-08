@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c1f2b718b4e869046adc304f9044206c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - npc: {fileID: 11400000, guid: acab98e58b307064fbd2803d5ab560bf, type: 2}
+  - player: {instanceID: 0}
+  - dialogueUI: {instanceID: 0}
+  - npcName: {instanceID: 0}
+  - npcDialogueBox: {instanceID: 0}
+  - playerResponse: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

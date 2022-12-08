@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/Scenes/South Area/Forest.meta
+guid: 42724a25ab3ea4c4f81b105b375cabc7
+folderAsset: yes
+DefaultImporter:
+=======
+guid: 430bbf8df8a8546ee949d9bd6b449212
+NativeFormatImporter:
+>>>>>>> Stashed changes:Assets/New Terrain 1.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 15600000
+=======
+<<<<<<< Updated upstream:Assets/Scenes/East Area/NewBrush.brush.meta
+guid: a8e15255adb914ceda4e51ba067d437f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+=======
+guid: 430bbf8df8a8546ee949d9bd6b449212
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+>>>>>>> Stashed changes:Assets/New Terrain 1.asset.meta
+>>>>>>> Stashed changes
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

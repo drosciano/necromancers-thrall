@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a580fdd64bd386489e10c2e47023e7c, type: 3}
+  m_Name: Herald of the Woods
+  m_EditorClassIdentifier: 
+  name: 
+  dialogue:
+  - LET THE WOODS CONSUME YOU MONSTER!!!!!!!!!!
+  - If you are really here to help then answer this one question. What is my name?
+  - WRONG!!!!!!!
+  - "HMMMMMMMMMMMMMM perhaps\u2026 If you wish to help, then cleanse the forest of\r\nevil\u2026
+    THEN we shall see if you are indeed a monster."
+  playerDialogue:
+  - "\u201CWhoa whoa whoa, I\u2019m here to help you\u201D"
+  - "\u201COh great the Herald is a lunatic\u201D\r"
+  - "\u201CThat doesn\u2019t really seem like a fair question\u201D\r"
+  - "\u201CRoger\u201D"
+  - "\u201CWhat else can I do to prove I am not a monster\u201D\r"
+  - "\u201CListen psycho I\u2019m here to help whether you like it or not\u201D\r"

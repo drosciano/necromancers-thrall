@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a580fdd64bd386489e10c2e47023e7c, type: 3}
+  m_Name: Loff Gunt
+  m_EditorClassIdentifier: 
+  name: Loff Gunt
+  dialogue:
+  - Stay back fiend, I have slayed many lost bones with my shovel before you.
+  - Wait, you TALK.  They have never talked before.  Something is different about
+    you.  Why are you here?
+  - Well this is unexpected.  I suppose I could use a hand. You see there are four
+    graveyard plots.  There is the one here that we are at, and then there are three
+    others.  The other plots, however, have been overrun with undead forces.  If
+    you could clear those other plots out it would allow me to bury people with their
+    families again.
+  - Thank you now get going!
+  - Oh thank you so much.  The people of the town will be so happy that they can
+    visit their deceased again.  You have done a great service for us.
+  - That is where the final king of Akahatii, King Kinree is buried.  Well buried
+    is a bit of an overstatement, no one was ever able to recover his body.  All
+    that was left was his crown, you can go see it.
+  playerDialogue:
+  - Whoa there.  It's ok I'm on your side.
+  - If you think you could kill me with a shovel you got another thing coming.
+  - I was sent to help.  I'm working with the town, they said that you could use
+    some help purifying the Graveyard.
+  - Oh look, the old guys got a brain.  Why do you think I'm here? I'm here to help
+    you
+  - Of course, my shield is yours.
+  - Yea yea kill things got it
+  - It was my honor to serve you. Before I go do you know anything about that large
+    tomb.
+  - And you can pay me by telling me what that large tomb is for.

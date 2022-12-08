@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/Prefabs/Enemy.prefab.meta
+guid: 5485dd99d6ed54d7e97c47a73d2682ac
+PrefabImporter:
+=======
+guid: 6c5d83853a3144161bb8f499883e60d9
+NativeFormatImporter:
+>>>>>>> Stashed changes:Assets/New Terrain 2.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 15600000
+=======
+<<<<<<< Updated upstream:Assets/Scenes/South Area/Forest/NavMesh.asset.meta
+guid: ae6ee97d09edc0c488234efc21b7fc1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+=======
+guid: 6c5d83853a3144161bb8f499883e60d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+>>>>>>> Stashed changes:Assets/New Terrain 2.asset.meta
+>>>>>>> Stashed changes
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

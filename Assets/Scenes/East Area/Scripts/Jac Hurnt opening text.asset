@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a580fdd64bd386489e10c2e47023e7c, type: 3}
+  m_Name: Jac Hurnt opening text
+  m_EditorClassIdentifier: 
+  name: Jac Hurnt
+  dialogue:
+  - You came to the wrong part of town, dry bones
+  - Wait, you're not one of them. Gonna be honest never thought I would see a dry
+    bones helping us
+  - Well if you are truly here to help I might have something for you. You see this
+    valley, well believe it or not it used to have a beautiful river running through
+    it before Livernis dried the whole area up. Now, all we have is this pathetic
+    desert.
+  - "Well supposedly the heart of the river lies at the end of this maze. Livernis
+    created the maze so that we couldn\u2019t release the river again. If you take
+    to long getting through the maze then you\u2019re dead meat\u2026 dead bone in
+    your case. However, if you could get to the end of the maze and release the river
+    again I would be eternally grateful."
+  - "Thank you so much I know it\u2019s a lot to ask, but for some reason I trust
+    you. If anyone can do this you can. "
+  playerDialogue:
+  - "Wait I\u2019m here to help"
+  - Why does everyone want to kill me
+  - "It\u2019s a long story, but I am on your side"
+  - "Just because I\u2019m a skeleton doesn\u2019t mean I'm evil, gosh everyone here
+    is so boneist"
+  - So what is it you would have me do?
+  - Okay buddy, let's get to the point
+  - "I\u2019ll see what I can do"
+  - "Got it you want me to risk my life for\u2026 water."

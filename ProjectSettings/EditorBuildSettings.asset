@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/Menu.unity
+    guid: 5e66ecde0783ace44bbb2be7b00568d1
+  - enabled: 1
+    path: Assets/Scenes/East Area/Scenes/Maze.unity
+    guid: fad0a468a83550e46bc01bc2545eb6ec
+  - enabled: 1
+    path: Assets/Scenes/East Area/Scenes/MazeComplete.unity
+    guid: 491cf4cf2cd56ca41806b3e78b312c79
+  - enabled: 1
+    path: Assets/Scenes/Hub/Hub.unity
+    guid: 4a5ea415b33474c4883395fa4cb9f5cd
+  - enabled: 1
+    path: Assets/Scenes/North Area/Castle.unity
+    guid: ec4aafa14785c6a479eb4bde3f78417e
+  - enabled: 1
+    path: Assets/Scenes/South Area/Forest.unity
+    guid: 0e32dad6bb49b0a438842b3854c20b57
+  - enabled: 1
+    path: Assets/Scenes/West Area/Graveyard.unity
+    guid: cd4b190c4151613418a2189bd7e5c44f
+  - enabled: 1
+    path: Assets/Scenes/South Area/Barn.unity
+    guid: 5c578e3e3c4728d48bc291fa3407238f
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Intro/Intro.unity
+    guid: d9c2e5bb9b64c2145814273fc41c0a89
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Forest/Forest_Cutscene.unity
+    guid: 9c1dbb3fd29707c45adb71729c5d3bf8
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Desert/Desert_Cutscene.unity
+    guid: 5c1c694cab34bc04f96c48f6fc742047
+  - enabled: 1
+    path: Assets/Scenes/South Area/ForestCleansed.unity
+    guid: 148f1eefb89cc6a40985d42e4076404d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Graveyard/Graveyard_Cutscene.unity
+    guid: 431c1e63008731440bc2fb736321bde2
+  - enabled: 1
+    path: Assets/Scenes/North Area/IntroDungeon.unity
+    guid: 95277f9df7696c94481396afb200a969
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Castle/Good_Ending.unity
+    guid: 4c496f0efb4508f4f9280bf36946f98e
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Castle/Bad_Ending.unity
+    guid: 00380cbb6b42a704dbf2e427378e99d8
+  m_configObjects: {}
